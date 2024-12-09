@@ -36,6 +36,8 @@ From the above characteristic table, we can directly write the next state equati
 
 
 **PROGRAM**
+Developed by : Bindhujaa.s
+register no: 24901119
 ```
 module experiment9(T,clk,Q,Qbar);
 input T,clk;
@@ -51,12 +53,18 @@ end
 endmodule
 ```
 **RTL LOGIC FOR FLIPFLOPS**
+
+
 ![Screenshot 2024-12-09 214207](https://github.com/user-attachments/assets/5989d8b8-d229-42a1-a4fa-eb83690859be)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+
+
 ![Screenshot 2024-12-09 214252](https://github.com/user-attachments/assets/62cf6b87-53ad-4a96-a70c-aec0a47753d8)
 
 
 **RESULTS**
+
+
 T flipflop using verilog and validating their functionality using their functional tables is done
 
